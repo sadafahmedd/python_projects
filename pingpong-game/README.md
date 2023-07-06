@@ -22,6 +22,6 @@ To play the Ping-Pong Game, follow the instructions below:
 ## Dependencies
 The Ping-Pong Game requires the Turtle module, which is a standard library in Python. No additional dependencies are needed.
 
-## Run: 
+## Output: 
 ![image](https://github.com/sadafahmedd/python_projects/assets/90939272/cc7f874b-5d5d-49cb-b5fb-511d48047ac7)
 
