@@ -2,7 +2,7 @@
 ## Description
 The Snake Game is a classic arcade-style game built using Python and the Turtle module. The objective of the game is to control a snake and help it grow by eating food while avoiding collisions with the walls and its own body.
 
-## How To PLay
+## How To Pay
 To play the Snake Game, follow the instructions below:
 
 1. Run the code using a Python interpreter.
