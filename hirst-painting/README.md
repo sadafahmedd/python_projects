@@ -14,6 +14,6 @@ A Turtle graphics window will open, displaying the dot pattern.
 The pattern will be created by placing dots in a grid-like structure with random colors.
 Once the pattern is complete, click anywhere on the screen to close the window.
 
-#Output: 
+## Output: 
 ![image](https://github.com/sadafahmedd/python_projects/assets/90939272/25c75e3d-7f16-4da2-a6e1-6eb8ce4b1af8)
 
