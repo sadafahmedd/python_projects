@@ -1,5 +1,6 @@
 # Python_Projects
 ## A collection of Python Projects / Games 
 
-![image](https://github.com/sadafahmedd/python_projects/assets/90939272/90ce7d9f-22d0-4ee9-85b4-306247312648)
+![image](https://github.com/sadafahmedd/python_projects/assets/90939272/37739627-decc-4e27-b765-3f92ae3f8321)
+
 
