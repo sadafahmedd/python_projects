@@ -9,7 +9,7 @@ To play the Snake Game, follow the instructions below:
 2. A game window will open with a black background and a snake.
 3. Use the arrow keys to control the direction of the snake.
 4. The snake will start moving automatically.
-5. Guide the snake to eat the food represented by a small square.
+5. Guide the snake to eat the food represented by a small ball.
 6. Each time the snake eats the food, it will grow in length.
 7. The game ends if the snake collides with the walls or its own body.
 8. Click anywhere on the screen to close the game window.
