@@ -6,3 +6,9 @@ players can compete against each other or play against the computer.
 
 The objective of the game is to bounce the ball back and forth between the paddles,
 aiming to score points by making the opponent miss the ball. 
+
+
+
+
+
+![image](https://github.com/sadafahmedd/python_projects/assets/90939272/cc7f874b-5d5d-49cb-b5fb-511d48047ac7)
