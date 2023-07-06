@@ -11,4 +11,10 @@ This is a simple quiz game built using Python. It presents a set of questions to
 6. Repeat steps 3-5 until all the questions have been answered.
 7. At the end of the game, the player will receive a score indicating the number of correct answers.
 
+
 ![image](https://github.com/sadafahmedd/python_projects/assets/90939272/a29f6355-a160-4ce9-ad52-98ad632d018c)
+
+## Customization 
+You can customize the quiz by modifying the question_data list in the data.py file. Add or remove questions as desired, following the structure of the existing data.
+
+You can also adjust the behavior of the game by modifying the code in quiz_brain.py. For example, you can change the scoring system or add additional functionality.
