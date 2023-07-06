@@ -11,7 +11,7 @@ This is a simple quiz game built using Python. It presents a set of questions to
 6. Repeat steps 3-5 until all the questions have been answered.
 7. At the end of the game, the player will receive a score indicating the number of correct answers.
 
-## Run:
+## Output:
 ![image](https://github.com/sadafahmedd/python_projects/assets/90939272/a29f6355-a160-4ce9-ad52-98ad632d018c)
 
 ## Customization 
